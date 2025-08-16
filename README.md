@@ -1,4 +1,4 @@
-# Some Info About me
+# Some Info About me 😇
 
 I’m currently learning some coding in my spare time and learning how Github works.
 <!--
