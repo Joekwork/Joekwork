@@ -1,5 +1,6 @@
 # Some Info About me
- 😎😎😎😎
+
+I’m currently working on learning some coding in my spare time and learning how Github works.
 <!--
 **Joekwork/Joekwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
